@@ -1,4 +1,6 @@
-# pizza_delivery_system
+# PIZZA DELIVER SYSTEM
+author: Evren Çetinkaya
+
 -Pizza delivery system by using object oriented programming methods without any STL libraries
 
 -Please compile with:
